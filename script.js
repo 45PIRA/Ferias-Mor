@@ -1,10 +1,3 @@
-mkdir images
-git add images/
-git commit -m "Adiciona fotos para a contagem regressiva"
-git push origin main
-
-
-
 document.getElementById('startButton').addEventListener('click', startCountdown);
 
 const photos = [
