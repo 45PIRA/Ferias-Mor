@@ -1,11 +1,11 @@
 document.getElementById('startButton').addEventListener('click', startCountdown);
 
 const photos = [
-    'foto1.jpg',
-    'foto2.jpg',
-    'foto3.jpg',
-    'foto4.jpg',
-    'foto5.jpg'
+    'Foto1.jpg',
+    'Foto2.jpg',
+    'Foto3.jpg',
+    'Foto4.jpg',
+    'Foto5.jpg'
 ];
 
 function startCountdown() {
